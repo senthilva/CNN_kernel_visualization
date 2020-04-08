@@ -1,4 +1,4 @@
-# CNN_kernel_visualization
+# CNN Kernel Visualization
 Neural Network Visualization
 
 
