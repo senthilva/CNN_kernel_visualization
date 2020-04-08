@@ -2,7 +2,9 @@
 Neural Network Visualization
 
 
-## This code is to understand kernel/Channel Visualization. The idea here to get feel of the Interpretability in a CNN
+## This code is to understand kernel/Channel Visualization. 
+
+The idea here to get an understanding of the Interpretability in a CNN
 
 ### Approach
 
